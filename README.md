@@ -8,8 +8,8 @@ This is the official repository for [**ParaCLIP**](https://aclanthology.org/2024
 
 * 🔍 **Training Method**: We created 5M synthetic paraphrases of original image captions (sourced from LAION-400M) and fine-tuned the text encoder using contrastive learning while keeping the image encoder fixed.
 
-* 📄 **Paper**: ([Fine-tuning CLIP Text Encoders with Two-step Paraphrasing
-](https://aclanthology.org/2024.findings-eacl.144/))
+* 📄 **Paper**: [Fine-tuning CLIP Text Encoders with Two-step Paraphrasing
+](https://aclanthology.org/2024.findings-eacl.144/)
 
 * 👨‍💻 **Team**: This research was a collaborative effort between the [DMIS Lab](https://dmis.korea.ac.kr/) at Korea University and [Adobe Research](https://research.adobe.com/).
 
