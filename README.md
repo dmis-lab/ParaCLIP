@@ -59,7 +59,7 @@ Please cite our paper (**EACL 2024, Findings**) if our work is relevant to yours
 
 ## Contact
 
-Feel free to email Hyunjae Kim `(hyunjae-kim@korea.ac.kr)` and David Seunghyun Yoon `(syoon@adobe.com)` if you have any questions.
+Feel free to email Hyunjae Kim (`hyunjae-kim@korea.ac.kr`) and David Seunghyun Yoon (`syoon@adobe.com`) if you have any questions.
 
 ## License
 
