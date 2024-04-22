@@ -33,7 +33,7 @@ Please check the `paraphrasing` folder if you want to generate paraphrased data 
 
 ## References
 
-Please cite our paper ([**EACL 2024**](https://2024.eacl.org/), **Findings**) if our work is relevant to yours or has been helpful. Thank you!
+Please cite our paper ([**EACL 2024**](https://2024.eacl.org/), Findings) if our work is relevant to yours or has been helpful. Thank you!
 
 ```bibtex
 @inproceedings{kim-etal-2024-fine,
