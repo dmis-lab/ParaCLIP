@@ -26,7 +26,7 @@ pip install -r requirements.txt
 Our models are built upon the [OpenCLIP]([https://2022.emnlp.org/](https://github.com/mlfoundations/open_clip)) model structure. See the example in the `notebooks` folder to learn how to load our models.
 
 ### Model Weights
-You can only download the weights of ParaCLIP models via Google Drive because of Adobe's current policy on models trained using LAION datasets. For access to the Google Drive, please reach out to us via [email](#contact).
+Please reach out to us via [email](#contact).
 
 ## Paraphrase Generation
 Please check the `paraphrasing` folder if you want to generate paraphrased data from scratch.
