@@ -59,7 +59,7 @@ Please cite our paper ([**EACL 2024**](https://2024.eacl.org/), Findings) if our
 
 ## Contact
 
-Feel free to email Hyunjae Kim (`hyunjae-kim@korea.ac.kr`) and David Seunghyun Yoon (`mysmilesh@gmail.com`) if you have any questions.
+Feel free to email Hyunjae Kim (`hyunjae.kim@yale.edu`) and David Seunghyun Yoon (`mysmilesh@gmail.com`) if you have any questions.
 
 ## License
 
